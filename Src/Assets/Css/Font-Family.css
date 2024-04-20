@@ -1,0 +1,25 @@
+/* font family bold */
+@font-face {
+    font-family: 'maven-bold';
+    src: url('../Fonts/Maven/Maven-Bold.eot');
+    src: url('../Fonts/Maven/Maven-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../Fonts/Maven/Maven-Bold.woff2') format('woff2'),
+        url('../Fonts/Maven/Maven-Bold.woff') format('woff'),
+        url('../Fonts/Maven/Maven-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* font family medium */
+@font-face {
+    font-family: 'maven-medium';
+    src: url('../Fonts/Maven/Maven-Medium.eot');
+    src: url('../Fonts/Maven/Maven-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../Fonts/Maven/Maven-Medium.woff2') format('woff2'),
+        url('../Fonts/Maven/Maven-Medium.woff') format('woff'),
+        url('../Fonts/Maven/Maven-Medium.ttf') format('truetype');
+    font-weight: medium;
+    font-style: normal;
+    font-display: swap;
+}
