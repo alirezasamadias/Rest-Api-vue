@@ -1,6 +1,6 @@
 # Rest API - Vue
 
-![Screen Project](./src/Assets/Images/Screen-Project.jpg)
+![Screen Project](./Src/Assets/Images/Screen-Project.jpg)
 
 ## Url
 https://restapivue2024.netlify.app/
